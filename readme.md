@@ -10,7 +10,7 @@
 
 ![прототип устройства](https://github.com/UN7FGO/MK-61s-Classic/blob/main/pic/mk-61s-classic-prototype.jpg)
 
-Вот так, прототип выглядит рядом с оригиналом.
+Вот так, прототип выглядит рядом с оригиналом (Оригинал 75 x 168 x 36 мм, Прототип - 69 x 148 x 20 мм).
 
 ![рядом с оригиналом](https://github.com/UN7FGO/MK-61s-Classic/blob/main/pic/mk-61s-classic-original.jpg)
 
