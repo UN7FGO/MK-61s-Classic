@@ -10,6 +10,10 @@
 
 ![прототип устройства](https://github.com/UN7FGO/MK-61s-Classic/blob/main/pic/mk-61s-classic-prototype.jpg)
 
+Вот так, прототип выглядит рядом с оригиналом.
+
+![рядом с оригиналом](https://github.com/UN7FGO/MK-61s-Classic/blob/main/pic/mk-61s-classic-original.jpg)
+
 На базе плат-прототипов, коллегами были собраны альтернативные варинты конструкции.
 
 ![альтернативные варианты устройства](https://github.com/UN7FGO/MK-61s-Classic/blob/main/pic/mk-61s-classic-example.jpg)
